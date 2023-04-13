@@ -1,0 +1,24 @@
+[
+{
+"name": "Auroria",
+"leaderName": "Queen Adalyn",
+"adjective": ["Aurorian"],
+"startBias": ["Coast"],
+"preferredVictoryType": "Science",
+"startIntroPart1": "Welcome to the kingdom of Auroria. I am Queen Adalyn, and I invite you to explore the wonders of our land.",
+"startIntroPart2": "The sea has always been a source of life and prosperity for us, and we hope to continue to use its resources to thrive.",
+"declaringWar": "You leave us no choice but to defend ourselves. Prepare to face the might of Auroria!",
+"attacked": "How dare you attack us! We will fight to protect our land and our people!",
+"defeated": "We have been defeated, but our spirit will never be broken.",
+"introduction": "Auroria is a land of innovation and discovery. We seek to push the boundaries of knowledge and technology to better ourselves and our world.",
+"neutralHello": "Greetings, traveler.",
+"hateHello": "What do you want? Speak quickly.",
+"tradeRequest": "Let us trade and benefit from our mutual prosperity.",
+"outerColor": [185, 211, 238],
+"innerColor": [255, 215, 0],
+"favoredReligion": "None",
+"uniqueName": "Sea of Wonders",
+"uniques": ["+1 Science from every Coast tile worked", "+2 Food from every Fishing Boat improvement"],
+"cities": ["Atlantis", "Poseidon's Reach", "Neptunia", "Coralia", "Seafoam", "Naiad's Haven", "Marinara", "Triton's Rest", "Oceania", "Meridian", "Pearl Bay", "Aqua Regia", "Seahaven", "Sea Breeze", "Aquatica", "Cove City", "Blue Lagoon", "Saltwater", "Surfside", "Sea Spray", "Anemone", "Seashell", "Lapis Point", "Seafarer's Cove"]
+},
+]
