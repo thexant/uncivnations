@@ -21,4 +21,27 @@
 "uniques": ["+1 Science from every Coast tile worked", "+2 Food from every Fishing Boat improvement"],
 "cities": ["Atlantis", "Poseidon's Reach", "Neptunia", "Coralia", "Seafoam", "Naiad's Haven", "Marinara", "Triton's Rest", "Oceania", "Meridian", "Pearl Bay", "Aqua Regia", "Seahaven", "Sea Breeze", "Aquatica", "Cove City", "Blue Lagoon", "Saltwater", "Surfside", "Sea Spray", "Anemone", "Seashell", "Lapis Point", "Seafarer's Cove"]
 },
+{
+"name": "Zarath",
+"leaderName": "Darius the Great",
+"adjective": ["Zarathian"],
+"startBias": ["Desert"],
+"preferredVictoryType": "Domination",
+"startIntroPart1": "We are the Zarathian Empire, proud and undefeated!",
+"startIntroPart2": "Our armies are the greatest in the world!",
+"declaringWar": "You have trespassed on our land. We shall show you the might of the Zarathian military!",
+"attacked": "You dare to attack the Zarathian Empire? You will regret this!",
+"defeated": "You have won this battle, but the war is far from over!",
+"introduction": "Welcome to the glorious Zarathian Empire, where strength and discipline are our guiding principles. We will not hesitate to use force to protect our interests!",
+"neutralHello": "Greetings, traveler.",
+"hateHello": "What do you want, infidel?",
+"tradeRequest": "We are not interested in your goods, unless they can be used to strengthen our army.",
+"outerColor": [0, 128, 0],
+"innerColor": [255, 255, 0],
+"favoredReligion": "Zoroastrianism",
+"uniqueName": "Immortals",
+"uniques": ["[+10% Combat Strength] for all units in friendly territory", "No Maintenance costs for Barracks and Armories"],
+"cities": ["Pertola", "Vagarn", "Susiet", "Lonaby", "Echna", "Rohoe", "Ganva", "Hecatolas", "Selucan", "Niverna", "Epus", "Alria", "Tomec", "Sauem", "Balloa", "Alvios", "Chetsion", "Herduos", "Uruha", "Kanar", "Sais", "Melinas", "Onakan", "Tarinsis", "Jojoban"]
+}
+
 ]
