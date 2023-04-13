@@ -16,7 +16,7 @@
 "tradeRequest": "Let us trade and benefit from our mutual prosperity.",
 "outerColor": [185, 211, 238],
 "innerColor": [255, 215, 0],
-"favoredReligion": "None",
+"favoredReligion": "Shinto",
 "uniqueName": "Sea of Wonders",
 "uniques": ["+1 Science from every Coast tile worked", "+2 Food from every Fishing Boat improvement"],
 "cities": ["Atlantis", "Poseidon's Reach", "Neptunia", "Coralia", "Seafoam", "Naiad's Haven", "Marinara", "Triton's Rest", "Oceania", "Meridian", "Pearl Bay", "Aqua Regia", "Seahaven", "Sea Breeze", "Aquatica", "Cove City", "Blue Lagoon", "Saltwater", "Surfside", "Sea Spray", "Anemone", "Seashell", "Lapis Point", "Seafarer's Cove"]
