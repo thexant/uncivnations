@@ -65,7 +65,8 @@
 "uniqueName": "Lanvaran Knowledge",
 "uniques": ["+1 Culture from every Jungle tile worked", "+2 Science from every Lumber Mill Improvement"],
 "cities": ["Lanvaria", "Kolosi", "Vadofir", "Lismare", "Vineles", "Srinu", "Lonae", "Filomev", "Akseti", "Salure", "Elmes", "Voysleng", "Silng", "Arila", "Konesye", "Lifovir", "Skolod", "Ardunet", "Valkoy", "Comerenthes", "Slidui", "Vifosen", "Amakengev", "Shordu"]
-}
+},
+
 {
 "name": "Caspia",
 "leaderName": "Empress Charlie",
