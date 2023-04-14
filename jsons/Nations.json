@@ -43,7 +43,6 @@
 "uniques": ["[+10% Combat Strength] for all units in friendly territory", "No Maintenance costs for Barracks and Armories"],
 "cities": ["Pertola", "Vagarn", "Susiet", "Lonaby", "Echna", "Rohoe", "Ganva", "Hecatolas", "Selucan", "Niverna", "Epus", "Alria", "Tomec", "Sauem", "Balloa", "Alvios", "Chetsion", "Herduos", "Uruha", "Kanar", "Sais", "Melinas", "Onakan", "Tarinsis", "Jojoban"]
 },
-
 {
 "name": "Lanvaria",
 "leaderName": "Eñlar",
@@ -66,7 +65,6 @@
 "uniques": ["+1 Culture from every Jungle tile worked", "+2 Science from every Lumber Mill Improvement"],
 "cities": ["Lanvaria", "Kolosi", "Vadofir", "Lismare", "Vineles", "Srinu", "Lonae", "Filomev", "Akseti", "Salure", "Elmes", "Voysleng", "Silng", "Arila", "Konesye", "Lifovir", "Skolod", "Ardunet", "Valkoy", "Comerenthes", "Slidui", "Vifosen", "Amakengev", "Shordu"]
 },
-
 {
 "name": "Caspia",
 "leaderName": "Empress Charlie",
@@ -89,7 +87,6 @@
 "uniques": ["+15 Combat Strength] for All Units",
 "cities": ["Caspiasa", "Wasbiasa", "Lunaesi", "Bailensa", "Jordania", "Bojackia", "Iera", "Gemmina", "Marijunia", "Vodikia", "Gerwayia", "Popunika", "Artsua", "Quetiapina", "Larissia"]
 },
-
 {
 "name": "Trinaco",
 "leaderName": "Commissar Nic",
